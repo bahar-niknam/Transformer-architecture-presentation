@@ -14,14 +14,15 @@ This repository contains a concise slide deck introducing the core concepts behi
 
 - Introduction to Sequence-to-Sequence Models  
 - Key Components of a Seq2Seq Model  
-- RNN-Based Architectures  
+- RNN-Based Architectures as a Seq2Seq Model
 - Attention Mechanisms:
-  - Queries, Keys, and Values  
+  - Queries, Keys and Values  
   - Scaled Dot-Product Attention  
   - Additive Attention  
-  - Bahdanau Attention (RNN-based)  
+  - Bahdanau Attention (for RNN-based model)  
   - Multi-Head Attention  
-  - Self-Attention & Positional Encoding  
+  - Self-Attention & Positional Encoding
+- Comparing CNNs, RNNs, and Self-Attention in Seq2Seq Model 
 - The Transformer Architecture (Encoder & Decoder)
 
 ---
