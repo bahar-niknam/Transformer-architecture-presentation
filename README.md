@@ -13,8 +13,13 @@ This repository contains a concise slide deck introducing the core concepts behi
 ### Topics Covered
 
 - Introduction to Seq2Seq Models  
-- Key Components of a Seq2Seq Model  
-- RNN-Based Architectures as a Seq2Seq Model
+  - Applications of Seq2Seq Models
+  - Working with Sequences
+  - language models
+  - Key Components of a Seq2Seq Model
+    - Encoder 
+    - Decoder
+  - RNN based model as Seq2Seq Models
 - Attention Mechanisms:
   - Queries, Keys and Values  
   - Scaled Dot-Product Attention  
@@ -22,9 +27,11 @@ This repository contains a concise slide deck introducing the core concepts behi
   - Bahdanau Attention (for RNN-based model)  
   - Multi-Head Attention  
   - Self-Attention & Positional Encoding
-- Comparing CNNs, RNNs, and Self-Attention in Seq2Seq Model 
-- The Transformer Architecture (Encoder & Decoder)
-
+- Comparing CNNs, RNNs, and Self-Attention in Seq2Seq Model
+- Residual Connections used in transformer Architecture
+- The Transformer Architecture
+  - The Encoder stack
+  - The Decoder stack
 ---
 
 ## References
