@@ -1,5 +1,5 @@
 # Transformer-architecture-presentation
-💡 An in-depth exploration of Transformer architecture, starting from Seq2Seq models and progressing to advanced attention mechanisms. based on “Attention Is All You Need”. 
+💡 An in-depth exploration of Transformer architecture, starting from Sequence-to-Sequence (Seq2Seq) models and progressing to advanced attention mechanisms. based on “Attention Is All You Need”. 
 
 **Author:** Bahar Niknam  
 **Format:** PDF Slide Deck  
@@ -12,7 +12,7 @@ This repository contains a concise slide deck introducing the core concepts behi
 
 ### Topics Covered
 
-- Introduction to Sequence-to-Sequence Models  
+- Introduction to Seq2Seq Models  
 - Key Components of a Seq2Seq Model  
 - RNN-Based Architectures as a Seq2Seq Model
 - Attention Mechanisms:
